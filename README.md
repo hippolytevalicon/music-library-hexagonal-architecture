@@ -1,5 +1,8 @@
 # Music Library - Hexagonal Architecture Demo
 
+Presentation video here public/video presentation music library.mp4
+Music sound is very loud in the recording, sorry
+
 ## Features
 - Fetch a list of musics from FreeMusicArchive AND/OR InternetArchive (2 different APIs). To change the feature, modify currentSource to either "freeMusic" or "internetArchive" in src/di/container.ts
 - Play tracks in browser
